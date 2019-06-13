@@ -38,9 +38,11 @@ h1 {
 }
 
 header a {
-    color: rgb(233, 20, 84);
+    color: rgb(90, 186, 199);
     text-decoration: none;
-    margin-right: 18px
+    font-weight: bold;
+    margin-right: 20px;
+    
 }
 
 input {
